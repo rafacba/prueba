@@ -1,4 +1,5 @@
 Mi nueva imagen
 
-Representación de una imagen 
+Representación de la imagen 
 
+Editado en newBranch desde Github
