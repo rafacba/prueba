@@ -1,1 +1,4 @@
 Mi nueva imagen
+
+Representación de una imagen 
+
